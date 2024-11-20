@@ -24,7 +24,7 @@ This microservice provides endpoints for uploading images with metadata and retr
 4. **Run the Microservice**
    ```python
    python image_microservice.py
-```
+   ```
    Flask will start a dev server at http://127.0.0.1:5000, this can be changed to any other server you need.
    The Microservice is now ready to use.
 
